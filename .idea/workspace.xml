@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56092645-aed0-46b2-9706-bb088c90ba49" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/ansi-html" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/ansi-html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/atob" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/atob" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/browserslist" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/browserslist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/cssesc" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/cssesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/errno" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/esparse" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/esvalidate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/he" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/he" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/html-minifier" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/html-minifier" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/import-local-fixture" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/import-local-fixture" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/jsesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/miller-rabin" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/miller-rabin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/multicast-dns" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/multicast-dns" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/parser" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/parser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/regjsparser" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/regjsparser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/sha.js" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/sha.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/terser" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/terser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/uglifyjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack-cli" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack-cli" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack-dev-server" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/webpack-dev-server" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/.bin/which" afterPath="$PROJECT_DIR$/frontend/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/core/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/frontend/node_modules/@babel/core/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/core-js-compat/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/frontend/node_modules/core-js-compat/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/detect-libc" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/detect-libc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/needle" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/needle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/node-pre-gyp" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/nopt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/frontend/node_modules/fsevents/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/html-webpack-plugin/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/frontend/node_modules/html-webpack-plugin/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/node-releases/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/frontend/node_modules/node-releases/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/regjsparser/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/frontend/node_modules/regjsparser/node_modules/.bin/jsesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/webpack-dev-middleware/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/frontend/node_modules/webpack-dev-middleware/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/webpack-dev-server/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/frontend/node_modules/webpack-dev-server/node_modules/.bin/semver" />
-    </list>
+    <list default="true" id="56092645-aed0-46b2-9706-bb088c90ba49" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -243,12 +196,12 @@
       <updated>1584125572443</updated>
       <workItem from="1584125573737" duration="4616000" />
       <workItem from="1584181796463" duration="2180000" />
-      <workItem from="1584192532889" duration="346000" />
+      <workItem from="1584192532889" duration="563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7142000" />
+    <option name="totallyTimeSpent" value="7359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
