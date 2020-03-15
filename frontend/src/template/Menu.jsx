@@ -1,6 +1,5 @@
 import React,{Component} from 'react'
 
-
 import Todo from '../todo/Todo'
 import About from '../about/About'
 
@@ -10,7 +9,6 @@ import {
     Route,
     Link
 } from "react-router-dom";
-
 
 export default props => (
     <Router>

@@ -5,6 +5,10 @@
         - WebPack
         - Twitter Bootstrap
         - Babel
+        - Redux + React Redux
+            - Redux Multi
+            - Redux Promise
+            - Redux Thunk
         
     Back-end
         - Mongoose
